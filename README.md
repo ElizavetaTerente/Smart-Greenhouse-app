@@ -1,6 +1,6 @@
 <img width="550" alt="logo" src="https://github.com/user-attachments/assets/2fec92f6-f20d-4f42-9346-3c176a73c7bb" />
  
-#
+# 
 
 Project made to monitor plants in greenhouses using 6 different sensors: air quality, light quality, temperature, air humidity, soil humidity, and air pressure.
 You need to set up your own greenhouse with sensors, and then you can connect to it via this application to see visualized real-time values provided by the sensors. Sensor values are highlighted with colors to indicate whether the current value is within the normal range.
